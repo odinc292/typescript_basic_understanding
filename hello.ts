@@ -1,4 +1,5 @@
 /*
+npm install -g typescript
 to run this code in vs code editor 
 add quokka.js extension
 ctr+shift+p   "quokka.js start on current file"
@@ -106,5 +107,3 @@ printId(101);
 printId("202");
 // Error
 //   printId({ myID: 22342 });
-
-// console.log("")
