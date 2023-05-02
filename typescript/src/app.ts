@@ -51,10 +51,10 @@ invoices.forEach((ele) => {
   console.log(ele.client, ele.details, ele.format());
 });
 
-const anchor = document.querySelector("a")!; //using "!" means i know it is definently here
-console.log(anchor);
+// const anchor = document.querySelector("a")!; //using "!" means i know it is definently here
+// console.log(anchor);
 
-console.log(anchor.href);
+// console.log(anchor.href);
 // if (anchor) {
 //   console.log(anchor.href);
 // }
